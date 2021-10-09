@@ -1,3 +1,7 @@
+# 
+  <p align="center">
+  <img width="260" height="260" src="https://media.discordapp.net/attachments/864930940181676050/868384771745656862/logo_new.jpg?width=250&height=250">
+</p>
 # UnionGamersSAMP
 This project has come to the end, leaving the last version used to the public, in the future the full version of it will be released.
 # For Models and Maps
